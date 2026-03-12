@@ -4,3 +4,4 @@ moc_*
 jevois-inventor.pro.user
 qrc_*
 jevois-inventor_plugin_import.cpp
+!buildTools
