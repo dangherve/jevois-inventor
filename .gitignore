@@ -6,3 +6,5 @@ qrc_*
 jevois-inventor_plugin_import.cpp
 
 !buildTools
+
+!.woodpecker
